@@ -1,0 +1,12 @@
+@import url();
+
+:root {
+    --cor-principal: #6E859F;
+    --cor-segundaria: #284260;
+    --cor-destaque: #C92BFC;
+}
+
+body {
+    font-family: 'Chakra Petch', sans-serif;
+    color: var(--cor-principal);
+}
